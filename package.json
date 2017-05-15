@@ -1,0 +1,12 @@
+{
+  "name": "BORN AI",
+  "version": "1.0.0",
+  "description": "BORN AI Educational Artificial Intelligence Skill",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  },
+  "devDependencies": {},
+  "author": "BORN AI",
+  "license": "SEE LICENSE IN license.md"
+}
